@@ -1,3 +1,1 @@
 performing git commands for todays sessions.
-
-refered by venkat.
